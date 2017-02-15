@@ -8,3 +8,5 @@ It is used to demonstrate some of the elements of various assignments.  For exam
 this file.  it is written using [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 # Project website
 The project website is in the `docs` folder.
+# Milestones and pull requests
+You can see an example of the weekly review process for this course, using milestones and pull requests, on this repository.	
